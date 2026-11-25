@@ -1,4 +1,4 @@
--- [[   NØX HUB V1 👑 ]] --
+-- [[   ALEX HUB V1 👑 ]] --
 -- Credits: NØX 
 
 --------------------------------------------------
@@ -19,12 +19,12 @@ end
 --------------------------------------------------
 task.spawn(function()
 local line = string.rep("_", 180)
-send(line.."[😎  HARSH [THE LIL KING] LOADED💀]||><CREATOR HI KHDE LALA🤙🏻")
+send(line.."[😎  ALEX [THE GODFATHER] LOADED💀]||><CREATOR HI KHDE LALA🤙🏻")
 end)
 
 -- CONSOLE EXECUTION MESSAGE
 local execMsg = [[
-[👺😎  HARSH👅🔥]
+[👺😎  ALEX👅🔥]
 @@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@
@@ -108,7 +108,7 @@ end)
 
 Title.Parent = MainFrame
 Title.Size = UDim2.new(1, 0, 0, 40)
-Title.Text = "HARSH HUB V1 👑"
+Title.Text = "ALEX HUB V1 👑"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.BackgroundTransparency = 1
 Title.TextSize = 18
@@ -165,12 +165,12 @@ local lines = {
 "TMKX MEH REACT 😃", "TMKX MEH DRAGON 🐉", "ITNA LALLU FYTER?🤣",
 "TMKX MEH RELATIONSHIP 🩷", "TMKX MEH HULK 🧌", "TMKX MEH GAS ⛽",
 "TMKX MEH CAT 😺", "TMKX MEH GODZILLA 💀", "TMKX MEH VENOM 🦂",
-"TMKX MEH HALWA 🎂", "DAFFN BY HARSH 😈", "TMKX MEH SIGMA 🗿",
+"TMKX MEH HALWA 🎂", "DAFFN BY ALEX 😈", "TMKX MEH SIGMA 🗿",
 "TMKX MEH VOID 🔊", "LEAVE KARDE?😂", "TMKX MEH HAGGYS 🌚",
 "TMKX MEH NEW SMITH 🏠", "TMKX MEH DOOR 🚪", "TMKX MEH BEAST 💥",
 "NŌX KA SCRIPT 😇", "TMKX MEH SEA 🌊", "TMKX MEH RAINBOW 🌈",
 "TMKX MEH SHIP 🚢", "TMKX MEH HUG 🫂", "TMKX MEH CHAIR 🪑",
-"BOL HARSH P3PA", "TMKX MEH PARLE G 🍪", "ISHAN ON TOP👑",
+"BOL ALEX P3PA", "TMKX MEH PARLE G 🍪", "ALEX ON TOP👑",
 "TMKX MEH ALPHA", "TMKX MEH CHAOS", "TMKX MEH BUILDING"
 }
 
@@ -178,7 +178,7 @@ local topSep = string.rep(s, 25)
 local midSep = string.rep(s, 35)
 local selected = lines[math.random(1, #lines)]
 
-return "BY HARSH😎\n"..topSep.."\n"..midSep.."\n"..topSep.."\n["..target.."] "..selected
+return "BY ALEX😎\n"..topSep.."\n"..midSep.."\n"..topSep.."\n["..target.."] "..selected
 end
 
 StartBtn.MouseButton1Click:Connect(function()
